@@ -1,0 +1,2 @@
+1. RUN THE main.py TO PLAY THE GAME
+ENJOY!!!!
